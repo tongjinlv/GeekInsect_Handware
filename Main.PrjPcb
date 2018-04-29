@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=DoubleMain.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSXARELV
+
+[Document2]
 DocumentPath=Main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSUAVUKR
 
-[Document2]
+[Document3]
 DocumentPath=Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
